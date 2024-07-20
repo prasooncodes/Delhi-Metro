@@ -1,4 +1,4 @@
-REQUIREMENTS
+COLLECTION FRAMEWORKS
 
 Data structure is a way of organizing data in the computer so that it can be used effectively. The data structures used in this project are:
 •	Array
@@ -10,7 +10,9 @@ Data structure is a way of organizing data in the computer so that it can be use
 •	Stack
 •	Graph
 
+
 ![image](https://github.com/user-attachments/assets/09ef73d1-c18a-49f7-af2e-b9e327c2800d)
+
 
 
 •	The array data structure is implemented using ArrayList class which is a resizable array.It stores data in contiguous memory locations.
