@@ -34,15 +34,6 @@ Pathfinding is handled by:
 
 ---
 
-# 💰 Fare Calculation
-# 📌 Fare Slabs Based on Number of Stations
-Stations Covered	Fare (INR)
-1 – 3	₹10
-4 – 7	₹20
-8 – 11	₹30
-12 – 20	₹40
->20	₹40 + ₹10 per station
-
 ## 🧪 Sample Output
 
 ```text
@@ -58,4 +49,10 @@ AIIMS~Y
 Rajiv_Chowk~BY ==> New_Delhi~YO  
 Shivaji_Stadium~O  
 DDS_Campus~O  
-IGI_Airport~O  
+IGI_Airport~O
+```
+
+## 📸 Screenshot
+
+<img width="1175" height="480" alt="image" src="https://github.com/user-attachments/assets/b72f6b8e-fc45-485f-a740-6746dddef4e2" />
+
