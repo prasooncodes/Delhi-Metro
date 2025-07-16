@@ -34,6 +34,15 @@ Pathfinding is handled by:
 
 ---
 
+# 💰 Fare Calculation
+# 📌 Fare Slabs Based on Number of Stations
+Stations Covered	Fare (INR)
+1 – 3	₹10
+4 – 7	₹20
+8 – 11	₹30
+12 – 20	₹40
+>20	₹40 + ₹10 per station
+
 ## 🧪 Sample Output
 
 ```text
