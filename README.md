@@ -40,3 +40,43 @@ WELCOME TO THE METRO APP
 7. GET FARE FOR DISTANCE-WISE SHORTEST PATH  
 8. GET FARE FOR TIME-WISE SHORTEST PATH  
 9. EXIT  
+
+# 🚇 Sample Output
+
+```text
+SOURCE STATION : Huda_City_Center~Y  
+DESTINATION STATION : IGI_Airport~O  
+DISTANCE : 27  
+NUMBER OF INTERCHANGES : 2  
+
+THE PATH IS AS FOLLOWS:
+Huda_City_Center~Y  
+Saket~Y  
+AIIMS~Y  
+Rajiv_Chowk~BY ==> New_Delhi~YO  
+Shivaji_Stadium~O  
+DDS_Campus~O  
+IGI_Airport~O  
+
+# 🔄 Interchange Explanation
+Stations with suffixes like ~BY, ~YO represent interchange stations.
+
+Interchanges are highlighted in the output as:
+
+text
+Copy
+Edit
+Rajiv_Chowk~BY ==> New_Delhi~YO
+
+# 🛠️ How to Run
+📦 Compile:
+bash
+Copy
+Edit
+g++ -std=c++17 metro.cpp -o metro
+
+# 🚀 Run:
+bash
+Copy
+Edit
+./metro
